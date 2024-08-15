@@ -1,0 +1,10 @@
+body{
+    background-image: url(/VERİTABANIDERS/otopark_takip/img/multi-storey-car-park.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#container{
+    width: 500px;
+}

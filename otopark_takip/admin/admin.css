@@ -1,0 +1,12 @@
+body{
+    background-image: url(/VERİTABANIDERS/otopark_takip/img/top-view-parking-lot-with-yellow-lines-6q8zxlikyp5cvnps.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#container{
+    width: 500px;
+    opacity: 0.8;
+    
+}
